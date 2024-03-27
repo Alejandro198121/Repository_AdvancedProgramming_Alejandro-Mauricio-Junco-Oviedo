@@ -1,2 +1,2 @@
 # Workshop_1_Catalog-of-vehicles
-en este repositorio se encuentra la primera tarea del curso de programacion avanzada.
+en este repositorio se encuentran los entregables del curso de programacion avanzada.
