@@ -1,1 +1,1 @@
-En este repositorio se encuentra la primera tarea del curso de programacion avanzada.
+In this repository you will find the different individual deliverables of the advanced programming course.
